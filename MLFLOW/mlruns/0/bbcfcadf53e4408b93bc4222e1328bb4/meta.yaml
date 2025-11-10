@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/bbcfcadf53e4408b93bc4222e1328bb4/artifacts
+end_time: 1762784274567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbcfcadf53e4408b93bc4222e1328bb4
+run_name: bald-skunk-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762784273961
+status: 3
+tags: []
+user_id: Ghanshyam Patil

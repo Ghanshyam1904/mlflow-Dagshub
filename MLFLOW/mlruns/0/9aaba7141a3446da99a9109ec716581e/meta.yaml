@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/9aaba7141a3446da99a9109ec716581e/artifacts
+end_time: 1762785540692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aaba7141a3446da99a9109ec716581e
+run_name: capricious-boar-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762785540241
+status: 4
+tags: []
+user_id: Ghanshyam Patil

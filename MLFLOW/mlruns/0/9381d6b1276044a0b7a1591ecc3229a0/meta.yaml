@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/9381d6b1276044a0b7a1591ecc3229a0/artifacts
+end_time: 1762785564371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9381d6b1276044a0b7a1591ecc3229a0
+run_name: upbeat-bird-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762785553875
+status: 3
+tags: []
+user_id: Ghanshyam Patil

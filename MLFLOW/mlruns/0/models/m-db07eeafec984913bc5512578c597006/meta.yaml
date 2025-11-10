@@ -1,0 +1,10 @@
+artifact_location: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/models/m-db07eeafec984913bc5512578c597006/artifacts
+creation_timestamp: 1762785554334
+experiment_id: '0'
+last_updated_timestamp: 1762785564363
+model_id: m-db07eeafec984913bc5512578c597006
+model_type: null
+name: RandomForestClassifier
+source_run_id: 9381d6b1276044a0b7a1591ecc3229a0
+status: 2
+status_message: null

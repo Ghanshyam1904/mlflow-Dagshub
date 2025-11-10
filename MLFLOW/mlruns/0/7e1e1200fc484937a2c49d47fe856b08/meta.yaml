@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/7e1e1200fc484937a2c49d47fe856b08/artifacts
+end_time: 1762785521255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e1e1200fc484937a2c49d47fe856b08
+run_name: brawny-hound-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762785520830
+status: 4
+tags: []
+user_id: Ghanshyam Patil

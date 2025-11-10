@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/76228083fde84f0eb7d733b26c0f0218/artifacts
+end_time: 1762780553241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76228083fde84f0eb7d733b26c0f0218
+run_name: vaunted-goat-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762780553175
+status: 3
+tags: []
+user_id: Ghanshyam Patil

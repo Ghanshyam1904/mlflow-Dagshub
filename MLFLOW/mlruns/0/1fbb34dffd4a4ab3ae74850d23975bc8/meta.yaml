@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/0/1fbb34dffd4a4ab3ae74850d23975bc8/artifacts
+end_time: 1762783849630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fbb34dffd4a4ab3ae74850d23975bc8
+run_name: rumbling-skunk-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762783849539
+status: 3
+tags: []
+user_id: Ghanshyam Patil
