@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DataScience/MLOPS/MLFLOW/mlruns/261109447160920980/660f4568332341f6a6203000a73f8a41/artifacts
+end_time: 1762790052984
+entry_point_name: ''
+experiment_id: '261109447160920980'
+lifecycle_stage: active
+run_id: 660f4568332341f6a6203000a73f8a41
+run_name: puzzled-wasp-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762790045148
+status: 3
+tags: []
+user_id: Ghanshyam Patil
